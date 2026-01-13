@@ -1,4 +1,4 @@
-🏨 Hotel Booking Analysis & Inventory Forecasting Dashboard
+**🏨 Hotel Booking Analysis & Inventory Forecasting Dashboard**
 
 📌 Project Overview
 
