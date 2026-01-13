@@ -1,4 +1,5 @@
 🏨 Hotel Booking Analysis & Inventory Forecasting Dashboard
+
 📌 Project Overview
 
 This project is a data-driven web dashboard that analyzes hotel booking data and uses machine learning and time-series forecasting to predict:
